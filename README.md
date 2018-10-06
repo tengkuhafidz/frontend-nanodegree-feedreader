@@ -1,12 +1,12 @@
 # Writing Test with Jasmine
 
-This game was built for an assignment of Udacity Frontend Nanodegree course.
+This was built for an assignment of Udacity Frontend Nanodegree course.
 
 
 ## Running The project
 
-1. Download the zip file from github: https://github.com/tengkuhafidz/frontend-nanodegree-arcade-game
-2. Unzip the folder open it
+1. Download the zip file from github: https://github.com/tengkuhafidz/frontend-nanodegree-feedreader
+2. Unzip the folder and open it
 3. Open index.html on your preferred browser
 
 
