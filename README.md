@@ -1,6 +1,6 @@
 # Writing Test with Jasmine
 
-This game was built for an assignment of Udacity Frontend Nanodegree course.
+This was built for an assignment of Udacity Frontend Nanodegree course.
 
 
 ## Running The project
